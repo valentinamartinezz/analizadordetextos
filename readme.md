@@ -1,4 +1,4 @@
-# Analizador de texto.
+# Text Analyzer.
 
 # Objective:
 The main objective of a text analyzer is to process textual information to extract specific knowledge, patterns or characteristics. These analyzers are used in a variety of contexts and have different objectives depending on the purpose for which they were designed.
